@@ -1,7 +1,7 @@
 /*######################################################################
-#			     	        MPG Calculator				         	   #
+#                           MPG Calculator                             #
 ########################################################################
-# 							  Sinwindie                                #
+#                             Sinwindie                                #
 ########################################################################
 # Program will ask the user for the total miles driven and the  number #
 # of gallons of gas used for three tanks of gas. The program then will #
